@@ -87,7 +87,7 @@ true
 ## /payment/result/`結帳代號`
 查詢之前要求付款後現在的結帳狀態。
 ```json
-{"id":"13be49f5-772b-448e-9492-405b2c62274c","buyer":"b46966c8-148b-4b1e-a596-1b3f78d9831b","seller":"63c09d08-a16d-4923-88fc-91df490c9e3b","Display":"測試商品啦！","currency":"C","price":20,"create":1707554240000,"update":1707554721340,"state":"finish"}
+{"id":"13be49f5-772b-448e-9492-405b2c62274c","buyer":"b46966c8-148b-4b1e-a596-1b3f78d9831b","seller":"63c09d08-a16d-4923-88fc-91df490c9e3b","display":"測試商品啦！","currency":"C","price":20,"create":1707554240000,"update":1707554721340,"state":"finish"}
 ```
 
 ## /currencies

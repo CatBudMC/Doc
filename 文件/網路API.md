@@ -47,19 +47,19 @@ true
 {"uuid":"63c09d08-a16d-4923-88fc-91df490c9e3b","name":"xuancat","locale":"zh_TW","discord":455305052416901130,"register":1703914504234,"update":1708008368617,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTcwODAwODA4NTExNSwKICAicHJvZmlsZUlkIiA6ICI2M2MwOWQwOGExNmQ0OTIzODhmYzkxZGY0OTBjOWUzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4dWFuY2F0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkN2FlYzgzNmI5OGM1ZGRmMTNmZDFjM2QwMmJmMGFkYWUxYzIyODY5MzViNGJjNmNiNGVkODc1ZGVkOWY2ZjgiCiAgICB9CiAgfQp9"}
 ```
 
-## /land/roles?token=`令牌`&land=`領地編號`
+## /land/roles?token=`令牌`&land=`領地`
 取得領地所有身分組名稱和UUID。
 ```json
 {"87b9a7ba-58e2-45a1-9921-b60443de051d":"團長"}
 ```
 
-## /land/members?token=`令牌`&land=`領地編號`
+## /land/members?token=`令牌`&land=`領地`
 取得領地所有玩家授予的身分組。
 ```json
 {"63c09d08-a16d-4923-88fc-91df490c9e3b":"87b9a7ba-58e2-45a1-9921-b60443de051d"}
 ```
 
-## /land/define?token=`令牌`&land=`領地編號`&player=`玩家`&role=`*身分`
+## /land/define?token=`令牌`&land=`領地`&player=`玩家`&role=`*身分`
 設置玩家在領地內的身分組，身分為 `null` 則撤銷該名玩家的身分組。
 ```json
 {"63c09d08-a16d-4923-88fc-91df490c9e3b":"87b9a7ba-58e2-45a1-9921-b60443de051d"}

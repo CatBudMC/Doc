@@ -23,9 +23,9 @@
 - [令牌](選單/令牌.md)
 
 # 指令
-- [`/log`](指令/log.md)
-- [`/seed`](指令/seed.md)
-- [`/token`](指令/token.md)
+- [/log](指令/log.md)
+- [/seed](指令/seed.md)
+- [/token](指令/token.md)
 
 ## 特性
 - [出生地每日重製](特性/出生地每日重製.md)

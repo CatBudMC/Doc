@@ -1,5 +1,5 @@
 # 網路API
-所有的網路API的網址開頭為 `https://catbud.net/api/`，有些需要令牌才能使用。
+所有網路API的網址開頭為 `https://catbud.net/api/`，有些需要令牌才能使用。
 
 ## 規則
 - `玩家`：可以輸入玩家的 UUID 或者名稱。

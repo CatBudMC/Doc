@@ -24,6 +24,17 @@
 - `entity_pos` 實體位置。
 - `entity_remove` 實體離開。
 
+## /remote/`密鑰`/`狀態`
+`狀態` 可以是 `true`（有信號）或 `false`（無信號），控制遙控器輸出的紅石信號。  
+
+*不回傳資料。*
+
+## /notify/`密鑰`
+獲得通知器受到的紅石信號。
+```
+true
+```
+
 ## /player/`玩家`/face
 取得已登入過伺服器的玩家面部圖片。  
 ![xuancat](https://catbud.net/api/player/xuancat/face)
@@ -51,3 +62,35 @@
 ```json
 {"63c09d08-a16d-4923-88fc-91df490c9e3b":"87b9a7ba-58e2-45a1-9921-b60443de051d"}
 ```
+
+## /own/friends?token=`令牌`
+取得自身好友清單。
+```json
+["07a1077a-c635-4348-a1a4-540b93bd8674","3991f9ee-2db8-46e1-bfe6-f8afe436f548","f37c3c16-b54c-48a4-98ba-2fe4f575f3ad"]
+```
+
+## /own/obstructs?token=`令牌`
+取得自身封鎖清單。
+```json
+["98a74525-bedf-47f9-8dc7-c998ec5c02a1", "02fada27-2adf-4071-9144-75cd200af048","4f206d5b-82e2-4501-97f8-503cf075c2c5"]
+```
+
+## /payment/request?token=`令牌`&player=`玩家`&display=`說明`&prices=`價格清單`
+`說明`必須被[百分號編碼](https://zh.wikipedia.org/zh-tw/百分号编码)，`價格清單` 使用 `貨幣:價格,貨幣:價格`，對指定的玩家要求付款，該玩家可從多種結帳方式內選擇一種。
+```json
+{"id":"13be49f5-772b-448e-9492-405b2c62274c","buyer":"b46966c8-148b-4b1e-a596-1b3f78d9831b","seller":"63c09d08-a16d-4923-88fc-91df490c9e3b","display":"測試商品啦！","currency":null,"price":null,"create":1707554240000,"update":1707554240000,"state":"wait"}
+```
+可以使用 `id` 作為 `結帳代號` 去查詢結帳狀態。
+
+## /payment/result/`結帳代號`
+查詢之前要求付款後現在的結帳狀態。
+```
+{"id":"13be49f5-772b-448e-9492-405b2c62274c","buyer":"b46966c8-148b-4b1e-a596-1b3f78d9831b","seller":"63c09d08-a16d-4923-88fc-91df490c9e3b","Display":"測試商品啦！","currency":"C","price":20,"create":1707554240000,"update":1707554721340,"state":"finish"}
+```
+
+## /currencies
+取得伺服器有的全部貨幣代號。
+```json
+["A","C","T"]
+```
+

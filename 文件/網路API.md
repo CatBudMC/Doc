@@ -25,6 +25,7 @@
 - `entity_add` 實體加入。
 - `entity_pos` 實體位置。
 - `entity_remove` 實體離開。
+- `land_notify` 領地通知器。
 
 ## /remote/`密鑰`/`狀態`
 `狀態` 可以是 `true`（有信號）或 `false`（無信號），控制遙控器輸出的紅石信號。  

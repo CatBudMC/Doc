@@ -93,7 +93,7 @@ true
 ```
 
 ## /currencies
-取得伺服器有的全部貨幣代號。
+取得伺服器有的全部貨幣代號。  
 <https://catbud.net/api/currencies>  
 ```json
 ["A","C","T"]

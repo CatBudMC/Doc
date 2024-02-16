@@ -39,6 +39,7 @@ true
 
 ## /player/`玩家`/face
 取得已登入過伺服器的玩家面部圖片。  
+<https://catbud.net/api/player/xuancat/face>  
 ![xuancat](https://catbud.net/api/player/xuancat/face)
 
 ## /player/`玩家`/info

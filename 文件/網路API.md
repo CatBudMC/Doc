@@ -42,7 +42,7 @@
 
 ## /notify/`密鑰`
 獲得通知器受到的紅石信號。
-```
+```json
 {"env":"normal","x":77,"y":74,"z":28,"powered":false}
 ```
 

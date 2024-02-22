@@ -27,6 +27,7 @@
 - [/log](指令/log.md)
 - [/seed](指令/seed.md)
 - [/token](指令/token.md)
+- [/count](指令/count.md)
 
 ## 特性
 - [回生羅盤](特性/回生羅盤.md)

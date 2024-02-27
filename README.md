@@ -26,6 +26,7 @@
 - [資源](選單/資源.md)
 
 # 指令
+- [/cause](指令/cause.md)
 - [/log](指令/log.md)
 - [/seed](指令/seed.md)
 - [/token](指令/token.md)

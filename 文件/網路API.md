@@ -89,6 +89,7 @@
 ```
 
 ## /payment/request?token=`令牌`&player=`玩家`&display=`說明`&prices=`價格清單`
+*需要完成[認證](/選單/認證.md)才可使用此端點。*  
 `說明`必須被[百分號編碼](https://zh.wikipedia.org/zh-tw/百分号编码)，`價格清單` 使用 `貨幣:價格,貨幣:價格`，對指定的玩家要求付款，該玩家可從多種結帳方式內選擇一種。
 ```json
 {"id":"13be49f5-772b-448e-9492-405b2c62274c","buyer":"b46966c8-148b-4b1e-a596-1b3f78d9831b","seller":"63c09d08-a16d-4923-88fc-91df490c9e3b","display":"測試商品啦！","currency":null,"price":null,"create":1707554240000,"update":1707554240000,"state":"wait"}

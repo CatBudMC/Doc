@@ -1,5 +1,5 @@
 # 網路API
-所有網路API的網址開頭為 `https://catbud.net/api/` 或 `wss://catbud.net/api/`，有些需要令牌才能使用。
+所有網路 API 的網址開頭為 `https://catbud.net/api/` 或 `wss://catbud.net/api/`，有些需要令牌才能使用。想要獲得更多 API 端點，請在 Discord 上找 `xuancat`。
 
 ## 定義
 - `玩家`：可以輸入玩家的 UUID 或者名稱。

@@ -122,7 +122,7 @@
 ```
 
 ## /message?token=`令牌`&player=`玩家`&context=`內容`&author=`*作者`
-`內容`、`作者` 必須被[百分號編碼](https://zh.wikipedia.org/zh-tw/百分号编码)，發送一則可以自定義 `作者` 名稱的消息。
+`內容`、`作者` 必須被[百分號編碼](https://zh.wikipedia.org/zh-tw/百分号编码)，發送一則可以自定義 `作者` 的消息。
 ```json
 {"player":"63c09d08-a16d-4923-88fc-91df490c9e3b"}
 ```

@@ -55,7 +55,7 @@
 取得已登入過伺服器的玩家資料。  
 <https://catbud.net/api/player/xuancat/info>  
 ```json
-{"uuid":"63c09d08-a16d-4923-88fc-91df490c9e3b","name":"xuancat","locale":"zh_TW","discord":455305052416901130,"register":1703914504234,"update":1708982758278,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTcwODk4MjU5MDA4NywKICAicHJvZmlsZUlkIiA6ICI2M2MwOWQwOGExNmQ0OTIzODhmYzkxZGY0OTBjOWUzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4dWFuY2F0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkN2FlYzgzNmI5OGM1ZGRmMTNmZDFjM2QwMmJmMGFkYWUxYzIyODY5MzViNGJjNmNiNGVkODc1ZGVkOWY2ZjgiCiAgICB9CiAgfQp9","phone":1708974514257}
+{"uuid":"63c09d08-a16d-4923-88fc-91df490c9e3b","name":"xuancat","locale":"zh_TW","discord":455305052416901130,"register":1703914504234,"update":1710316192929,"verified":true}
 ```
 
 ## /land/roles?token=`令牌`&land=`領地`

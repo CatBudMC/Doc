@@ -30,6 +30,7 @@
 | [宣示](選單/宣示.md) |  |
 
 # 指令
+- [/tester](指令/tester.md)
 - [/cause](指令/cause.md)
 - [/log](指令/log.md)
 - [/seed](指令/seed.md)

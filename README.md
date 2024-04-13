@@ -37,6 +37,7 @@
 - [/token](指令/token.md)
 - [/count](指令/count.md)
 - [/see](指令/see.md)
+- [/special](指令/special.md)
 
 ## 特性
 - [回生羅盤](特性/回生羅盤.md)

@@ -25,7 +25,7 @@
 ![凝固乳](https://i.imgur.com/JsrqZxu.png)
 ![起司](https://i.imgur.com/ZiTFOft.png)
 ![牛肉起司三明治](https://i.imgur.com/ltd9jYC.png)
-![發酵中可可豆](https://i.imgur.com/omO6EEa.png)
+![發酵中可可豆](https://i.imgur.com/WcJd9my.png)
 ![巧克力](https://i.imgur.com/fOYojQ3.png)
 ![巧克力麵包](https://i.imgur.com/98maUNF.png)
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)

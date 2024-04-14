@@ -2,14 +2,19 @@
 伺服器的連線地址為 `catbud.net`。你可以在這裡找到物品、功能、特性的詳細說明，歡迎自行編輯敘述有錯或不恰當的地方，有更多問題可到 Discord 詢問。
 
 ## 物品
-- [領地書](物品/領地書.md)
-- [屏障](物品/屏障.md)
-- [遙控器](物品/遙控器.md)
-- [通知器](物品/通知器.md)
-- [聲音鈴鐺](物品/聲音鈴鐺.md)
-- [運氣藥水](物品/運氣藥水.md)
-- [上鎖的地圖](物品/上鎖的地圖.md)
-- [動態地圖](物品/動態地圖.md)
+[![遙控器](https://i.imgur.com/Xvd4Qtv.png)](物品/遙控器.md)
+[![遙控器](https://i.imgur.com/4iJYTXB.png)](物品/遙控器.md)
+[![通知器](https://i.imgur.com/C9b4i9B.png)](物品/通知器.md)
+[![通知器](https://i.imgur.com/3jIVM4e.png)](物品/通知器.md)
+[![領地書](https://i.imgur.com/4jUQ8Rn.png)](物品/領地書.md)
+[![領地書](https://i.imgur.com/yfj9FxJ.png)](物品/領地書.md)
+[![屏障](https://i.imgur.com/BquKpuR.png)](物品/屏障.md)
+[![上鎖的地圖](https://i.imgur.com/KgQTMbm.png)](物品/上鎖的地圖.md)
+[![動態地圖](https://i.imgur.com/h0ODeLj.png)](物品/動態地圖.md)
+[![預覽圖片](https://i.imgur.com/lsP79mW.png)](物品/預覽圖片.md)
+[![聲音鈴鐺](https://i.imgur.com/uBopPkl.png)](物品/聲音鈴鐺.md)
+[![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)
+
 
 ## 選單
 | 1/2 | 2/2 |

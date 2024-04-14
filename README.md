@@ -13,8 +13,15 @@
 [![動態地圖](https://i.imgur.com/h0ODeLj.png)](物品/動態地圖.md)
 [![預覽圖片](https://i.imgur.com/lsP79mW.png)](物品/預覽圖片.md)
 [![聲音鈴鐺](https://i.imgur.com/uBopPkl.png)](物品/聲音鈴鐺.md)
-[![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)
-
+[![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)  
+*（未正式加入的物品）*  
+![銅幣](https://i.imgur.com/KLZDBy9.png)
+![鐵幣](https://i.imgur.com/ZgX8qfD.png)
+![金幣](https://i.imgur.com/McUeORb.png)
+![鑽石幣](https://i.imgur.com/dlzl3ke.png)
+![磁鐵](https://i.imgur.com/2DZzTmw.png)
+![放置魔杖](https://i.imgur.com/VFebfnd.png)
+![破壞魔杖](https://i.imgur.com/eNAa0Yl.png)
 
 ## 選單
 | 1/2 | 2/2 |

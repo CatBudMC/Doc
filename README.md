@@ -42,15 +42,13 @@
 | [宣示](選單/宣示.md) |  |
 
 # 指令
-- [/tester](指令/tester.md)
-- [/cause](指令/cause.md)
-- [/log](指令/log.md)
-- [/seed](指令/seed.md)
-- [/token](指令/token.md)
-- [/count](指令/count.md)
-- [/see](指令/see.md)
-- [/special](指令/special.md)
-- [/mode](指令/mode.md)
+|  | 可用 |
+| :---: | :--- |
+| `C` | [/cause](指令/cause.md)、[/count](指令/count.md) |
+| `L` | [/log](指令/log.md) |
+| `M` | [/mode](指令/mode.md) |
+| `S` | [/see](指令/see.md)、[/seed](指令/seed.md)、[/special](指令/special.md) |
+| `T` | [/tester](指令/tester.md)、[/token](指令/token.md) |
 
 ## 特性
 - [回生羅盤](特性/回生羅盤.md)

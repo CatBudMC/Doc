@@ -22,6 +22,13 @@
 ![磁鐵](https://i.imgur.com/2DZzTmw.png)
 ![放置魔杖](https://i.imgur.com/VFebfnd.png)
 ![破壞魔杖](https://i.imgur.com/eNAa0Yl.png)
+![凝固乳](https://i.imgur.com/JsrqZxu.png)
+![起司](https://i.imgur.com/ZiTFOft.png)
+![牛肉起司三明治](https://i.imgur.com/ltd9jYC.png)
+![發酵中可可豆](https://i.imgur.com/omO6EEa.png)
+![巧克力](https://i.imgur.com/fOYojQ3.png)
+![巧克力麵包](https://i.imgur.com/98maUNF.png)
+![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
 
 ## 選單
 | 1/2 | 2/2 |

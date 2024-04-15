@@ -29,6 +29,9 @@
 ![巧克力](https://i.imgur.com/fOYojQ3.png)
 ![巧克力麵包](https://i.imgur.com/98maUNF.png)
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
+![錄音機](https://i.imgur.com/3lx79JP.png)
+![錄音機](https://i.imgur.com/b72X2t4.png)
+![錄音機](https://i.imgur.com/CJZEkj0.png)
 
 ## 選單
 | 1/2 | 2/2 |

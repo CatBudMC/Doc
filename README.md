@@ -14,24 +14,6 @@
 [![預覽圖片](https://i.imgur.com/lsP79mW.png)](物品/預覽圖片.md)
 [![聲音鈴鐺](https://i.imgur.com/uBopPkl.png)](物品/聲音鈴鐺.md)
 [![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)  
-*（僅測試服）*  
-![銅幣](https://i.imgur.com/KLZDBy9.png)
-![鐵幣](https://i.imgur.com/ZgX8qfD.png)
-![金幣](https://i.imgur.com/McUeORb.png)
-![鑽石幣](https://i.imgur.com/dlzl3ke.png)
-![磁鐵](https://i.imgur.com/2DZzTmw.png)
-![放置魔杖](https://i.imgur.com/VFebfnd.png)
-![破壞魔杖](https://i.imgur.com/eNAa0Yl.png)
-![凝固乳](https://i.imgur.com/JsrqZxu.png)
-![起司](https://i.imgur.com/ZiTFOft.png)
-![牛肉起司三明治](https://i.imgur.com/ltd9jYC.png)
-![發酵中可可豆](https://i.imgur.com/WcJd9my.png)
-![巧克力](https://i.imgur.com/fOYojQ3.png)
-![巧克力麵包](https://i.imgur.com/98maUNF.png)
-![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
-![錄音機](https://i.imgur.com/3lx79JP.png)
-![錄音機](https://i.imgur.com/b72X2t4.png)
-![錄音機](https://i.imgur.com/CJZEkj0.png)
 
 ## 選單
 | 1/2 | 2/2 |
@@ -74,3 +56,23 @@
 # 文件
 - [網路API](文件/網路API.md)
 - [頭顱抽獎池](文件/頭顱抽獎池.txt)
+
+## 計畫物品
+*（僅能在測試服使用，且當前沒有提供詳細說明）*  
+![銅幣](https://i.imgur.com/KLZDBy9.png)
+![鐵幣](https://i.imgur.com/ZgX8qfD.png)
+![金幣](https://i.imgur.com/McUeORb.png)
+![鑽石幣](https://i.imgur.com/dlzl3ke.png)
+![磁鐵](https://i.imgur.com/2DZzTmw.png)
+![放置魔杖](https://i.imgur.com/VFebfnd.png)
+![破壞魔杖](https://i.imgur.com/eNAa0Yl.png)
+![凝固乳](https://i.imgur.com/JsrqZxu.png)
+![起司](https://i.imgur.com/ZiTFOft.png)
+![牛肉起司三明治](https://i.imgur.com/ltd9jYC.png)
+![發酵中可可豆](https://i.imgur.com/WcJd9my.png)
+![巧克力](https://i.imgur.com/fOYojQ3.png)
+![巧克力麵包](https://i.imgur.com/98maUNF.png)
+![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
+![錄音機](https://i.imgur.com/3lx79JP.png)
+![錄音機](https://i.imgur.com/b72X2t4.png)
+![錄音機](https://i.imgur.com/CJZEkj0.png)

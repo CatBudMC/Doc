@@ -76,3 +76,6 @@
 ![錄音機](https://i.imgur.com/3lx79JP.png)
 ![錄音機](https://i.imgur.com/b72X2t4.png)
 ![錄音機](https://i.imgur.com/CJZEkj0.png)
+![音高棒](https://i.imgur.com/GM8WxXN.png)
+![雷射水晶](https://i.imgur.com/lDFpnwp.png)
+![雷射水晶](https://i.imgur.com/iVbnZfc.png)

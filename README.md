@@ -57,8 +57,8 @@
 - [網路API](文件/網路API.md)
 - [頭顱抽獎池](文件/頭顱抽獎池.txt)
 
-## 計畫物品
-*（僅能在測試服使用，且當前沒有提供詳細說明）*  
+## 物品（實驗性）
+*※ 僅能在測試服使用，且當前沒有提供詳細說明*  
 ![銅幣](https://i.imgur.com/KLZDBy9.png)
 ![鐵幣](https://i.imgur.com/ZgX8qfD.png)
 ![金幣](https://i.imgur.com/McUeORb.png)

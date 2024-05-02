@@ -63,7 +63,7 @@
 ![鐵幣](https://i.imgur.com/ZgX8qfD.png)
 ![金幣](https://i.imgur.com/McUeORb.png)
 ![鑽石幣](https://i.imgur.com/dlzl3ke.png)
-![硬幣彈弓](https://i.imgur.com/VdlXbtv.png)
+![硬幣彈弓](https://i.imgur.com/pbr9bax.png)
 ![磁鐵](https://i.imgur.com/2DZzTmw.png)
 ![放置魔杖](https://i.imgur.com/VFebfnd.png)
 ![破壞魔杖](https://i.imgur.com/eNAa0Yl.png)

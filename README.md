@@ -60,7 +60,8 @@
 
 ## 物品（實驗性）
 *※ 僅能在測試服使用，且當前沒有提供詳細說明*  
-![錄音機](https://i.imgur.com/b72X2t4.png)
+![錄音機](https://i.imgur.com/3lx79JP.png)
+![播放機](https://i.imgur.com/b72X2t4.png)
 ![播放機](https://i.imgur.com/CJZEkj0.png)
 ![擴音器](https://i.imgur.com/O6ORLqm.png)
 ![擴音器](https://i.imgur.com/SXFhMRa.png)
@@ -79,7 +80,6 @@
 ![巧克力](https://i.imgur.com/fOYojQ3.png)
 ![巧克力麵包](https://i.imgur.com/98maUNF.png)
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
-![錄音機](https://i.imgur.com/3lx79JP.png)
 ![音高棒](https://i.imgur.com/GM8WxXN.png)
 ![雷射水晶](https://i.imgur.com/iVbnZfc.png)
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)

@@ -13,13 +13,13 @@
 [![動態地圖](https://i.imgur.com/h0ODeLj.png)](物品/動態地圖.md)
 [![預覽圖片](https://i.imgur.com/lsP79mW.png)](物品/預覽圖片.md)
 [![聲音鈴鐺](https://i.imgur.com/uBopPkl.png)](物品/聲音鈴鐺.md)
-[![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)  
-[![錄音機](https://i.imgur.com/3lx79JP.png)](物品/錄音機.md)  
-[![播放機](https://i.imgur.com/b72X2t4.png)](物品/播放機.md)  
-[![播放機](https://i.imgur.com/CJZEkj0.png)](物品/播放機.md)  
-[![擴音器](https://i.imgur.com/O6ORLqm.png)](物品/擴音器.md)  
-[![擴音器](https://i.imgur.com/SXFhMRa.png)](物品/擴音器.md)  
-[![音高棒](https://i.imgur.com/GM8WxXN.png)](物品/音高棒.md)  
+[![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)
+[![錄音機](https://i.imgur.com/3lx79JP.png)](物品/錄音機.md)
+[![播放機](https://i.imgur.com/b72X2t4.png)](物品/播放機.md)
+[![播放機](https://i.imgur.com/CJZEkj0.png)](物品/播放機.md)
+[![擴音器](https://i.imgur.com/O6ORLqm.png)](物品/擴音器.md)
+[![擴音器](https://i.imgur.com/SXFhMRa.png)](物品/擴音器.md)
+[![音高棒](https://i.imgur.com/GM8WxXN.png)](物品/音高棒.md)
 
 ## 選單
 | 1/2 | 2/2 |

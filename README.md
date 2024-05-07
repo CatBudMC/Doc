@@ -14,6 +14,12 @@
 [![預覽圖片](https://i.imgur.com/lsP79mW.png)](物品/預覽圖片.md)
 [![聲音鈴鐺](https://i.imgur.com/uBopPkl.png)](物品/聲音鈴鐺.md)
 [![運氣藥水](https://i.imgur.com/mrt3JEm.png)](物品/運氣藥水.md)  
+[![錄音機](https://i.imgur.com/3lx79JP.png)](物品/錄音機.md)  
+[![播放機](https://i.imgur.com/b72X2t4.png)](物品/播放機.md)  
+[![播放機](https://i.imgur.com/CJZEkj0.png)](物品/播放機.md)  
+[![擴音器](https://i.imgur.com/O6ORLqm.png)](物品/擴音器.md)  
+[![擴音器](https://i.imgur.com/SXFhMRa.png)](物品/擴音器.md)  
+[![音高棒](https://i.imgur.com/GM8WxXN.png)](物品/音高棒.md)  
 
 ## 選單
 | 1/2 | 2/2 |
@@ -60,11 +66,6 @@
 
 ## 物品（實驗性）
 *※ 僅能在測試服使用，且當前沒有提供詳細說明*  
-![錄音機](https://i.imgur.com/3lx79JP.png)
-![播放機](https://i.imgur.com/b72X2t4.png)
-![播放機](https://i.imgur.com/CJZEkj0.png)
-![擴音器](https://i.imgur.com/O6ORLqm.png)
-![擴音器](https://i.imgur.com/SXFhMRa.png)
 ![銅幣](https://i.imgur.com/KLZDBy9.png)
 ![鐵幣](https://i.imgur.com/ZgX8qfD.png)
 ![金幣](https://i.imgur.com/McUeORb.png)
@@ -80,7 +81,6 @@
 ![巧克力](https://i.imgur.com/fOYojQ3.png)
 ![巧克力麵包](https://i.imgur.com/98maUNF.png)
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
-![音高棒](https://i.imgur.com/GM8WxXN.png)
 ![雷射水晶](https://i.imgur.com/iVbnZfc.png)
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![星星](https://i.imgur.com/3HCqQEb.png)

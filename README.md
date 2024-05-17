@@ -85,3 +85,5 @@
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![星星](https://i.imgur.com/3HCqQEb.png)
 ![星星](https://i.imgur.com/AbJNUKr.png)
+![藍圖](https://i.imgur.com/c7wlErz.png)
+![藍圖](https://i.imgur.com/xYNyxSK.png)

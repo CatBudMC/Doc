@@ -2,6 +2,8 @@
 伺服器的連線地址為 `catbud.net`。你可以在這裡找到物品、功能、特性的詳細說明，歡迎自行編輯敘述有錯或不恰當的地方，有更多問題可到 Discord 詢問。
 
 ## 物品
+[![藍圖](https://i.imgur.com/c7wlErz.png)](物品/藍圖.md)
+[![藍圖](https://i.imgur.com/xYNyxSK.png)](物品/藍圖.md)
 [![遙控器](https://i.imgur.com/Xvd4Qtv.png)](物品/遙控器.md)
 [![遙控器](https://i.imgur.com/4iJYTXB.png)](物品/遙控器.md)
 [![通知器](https://i.imgur.com/C9b4i9B.png)](物品/通知器.md)
@@ -85,5 +87,3 @@
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![星星](https://i.imgur.com/3HCqQEb.png)
 ![星星](https://i.imgur.com/AbJNUKr.png)
-![藍圖](https://i.imgur.com/c7wlErz.png)
-![藍圖](https://i.imgur.com/xYNyxSK.png)

@@ -44,6 +44,7 @@
 # 指令
 |  | 可用 |
 | :---: | :--- |
+| `B` | [/blueprint](指令/blueprint.md) |
 | `C` | [/cause](指令/cause.md)、[/count](指令/count.md) |
 | `L` | [/log](指令/log.md) |
 | `M` | [/mode](指令/mode.md) |

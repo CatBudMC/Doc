@@ -88,3 +88,4 @@
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![星星](https://i.imgur.com/3HCqQEb.png)
 ![星星](https://i.imgur.com/AbJNUKr.png)
+![可移動式發射器](https://i.imgur.com/6uYmQcX.png)

@@ -4,6 +4,7 @@
 ## 物品
 [![藍圖](https://i.imgur.com/c7wlErz.png)](物品/藍圖.md)
 [![藍圖](https://i.imgur.com/xYNyxSK.png)](物品/藍圖.md)
+[![可移動式發射器](https://i.imgur.com/6uYmQcX.png)](物品/可移動式發射器.md)
 [![遙控器](https://i.imgur.com/Xvd4Qtv.png)](物品/遙控器.md)
 [![遙控器](https://i.imgur.com/4iJYTXB.png)](物品/遙控器.md)
 [![通知器](https://i.imgur.com/C9b4i9B.png)](物品/通知器.md)
@@ -88,4 +89,3 @@
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![星星](https://i.imgur.com/3HCqQEb.png)
 ![星星](https://i.imgur.com/AbJNUKr.png)
-![可移動式發射器](https://i.imgur.com/6uYmQcX.png)

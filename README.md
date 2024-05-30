@@ -2,6 +2,7 @@
 伺服器的連線地址為 `catbud.net`。你可以在這裡找到物品、功能、特性的詳細說明，歡迎自行編輯敘述有錯或不恰當的地方，有更多問題可到 Discord 詢問。
 
 ## 物品
+[![免死金牌](https://i.imgur.com/Y719B2q.gif)](物品/免死金牌.md)
 [![藍圖](https://i.imgur.com/c7wlErz.png)](物品/藍圖.md)
 [![藍圖](https://i.imgur.com/xYNyxSK.png)](物品/藍圖.md)
 [![可移動式發射器](https://i.imgur.com/6uYmQcX.png)](物品/可移動式發射器.md)

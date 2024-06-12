@@ -51,7 +51,7 @@
 | `L` | [/log](指令/log.md) |
 | `M` | [/mode](指令/mode.md) |
 | `S` | [/see](指令/see.md)、[/seed](指令/seed.md)、[/special](指令/special.md) |
-| `T` | [/tester](指令/tester.md)、[/token](指令/token.md) |
+| `T` | [/tester](指令/tester.md)、[/token](指令/token.md)、[/top](指令/top.md) |
 
 ## 特性
 - [回生羅盤](特性/回生羅盤.md)

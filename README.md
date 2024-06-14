@@ -24,6 +24,9 @@
 [![擴音器](https://i.imgur.com/O6ORLqm.png)](物品/擴音器.md)
 [![擴音器](https://i.imgur.com/SXFhMRa.png)](物品/擴音器.md)
 [![音高棒](https://i.imgur.com/GM8WxXN.png)](物品/音高棒.md)
+[![星星](https://i.imgur.com/3HCqQEb.png)](物品/星星.md)
+[![終界星星](https://i.imgur.com/AbJNUKr.png)](物品/終界星星.md)
+[![重置星星](https://i.imgur.com/GKNvPBK.png)](物品/重置星星.md)
 
 ## 選單
 | 1/2 | 2/2 |
@@ -88,6 +91,3 @@
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
 ![雷射水晶](https://i.imgur.com/iVbnZfc.png)
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
-![星星](https://i.imgur.com/3HCqQEb.png)
-![終界星星](https://i.imgur.com/AbJNUKr.png)
-![重置星星](https://i.imgur.com/TF4FocR.png)

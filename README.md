@@ -52,9 +52,9 @@
 | `B` | [/blueprint](指令/blueprint.md) |
 | `C` | [/cause](指令/cause.md)、[/count](指令/count.md) |
 | `L` | [/log](指令/log.md) |
-| `M` | [/mode](指令/mode.md) |
+| `M` | [/map](指令/map.md)、[/mode](指令/mode.md) |
 | `R` | [/rtp](指令/rtp.md) |
-| `S` | [/see](指令/see.md)、[/seed](指令/seed.md)、[/special](指令/special.md) |
+| `S` | [/seed](指令/seed.md)、[/special](指令/special.md) |
 | `T` | [/tester](指令/tester.md)、[/token](指令/token.md)、[/top](指令/top.md) |
 
 ## 特性

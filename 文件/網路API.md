@@ -55,7 +55,7 @@
 ## /player/`玩家`/info?mode=`*模式`
 取得已登入過伺服器的玩家資料。  
 <https://catbud.net/api/player/xuancat/info>  
-| 名稱 | UUID | 名稱 | 暱稱 | DiscordID |
+| 模式 | UUID | 名稱 | 暱稱 | DiscordID |
 | --- | :---: | :---: | :---: | :---: |
 | *`def`* | ✅ | ✅ | ✅ | 🟥 |
 | `uuid` | ✅ | 🟥 | 🟥 | 🟥 |

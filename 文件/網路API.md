@@ -52,9 +52,17 @@
 <https://catbud.net/api/player/xuancat/face>  
 ![xuancat](https://catbud.net/api/player/xuancat/face)
 
-## /player/`玩家`/info
+## /player/`玩家`/info?mode=`*模式`
 取得已登入過伺服器的玩家資料。  
 <https://catbud.net/api/player/xuancat/info>  
+| 名稱 | UUID | 名稱 | 暱稱 | DiscordID |
+| --- | :---: | :---: | :---: | :---: |
+| *`def`* | ✅ | ✅ | ✅ | 🟥 |
+| `uuid` | ✅ | 🟥 | 🟥 | 🟥 |
+| `id` | 🟥 | ✅ | 🟥 | 🟥 |
+| `nick` | 🟥 | 🟥 | ✅ | 🟥 |
+| `discord` | 🟥 | 🟥 | 🟥 | ✅ |
+
 ```json
 {"uuid":"63c09d08-a16d-4923-88fc-91df490c9e3b","name":"xuancat","locale":"zh_TW","discord":455305052416901130,"register":1703914504234,"update":1710316192929,"verified":true}
 ```

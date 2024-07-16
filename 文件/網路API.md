@@ -47,6 +47,12 @@
 {"env":"normal","x":77,"y":74,"z":28,"powered":false}
 ```
 
+## /player/online
+取得當前線上玩家清單
+```
+["f0c48aaf-8711-4229-bda7-0476df7741ee","f37c3c16-b54c-48a4-98ba-2fe4f575f3ad"]
+```
+
 ## /player/`玩家`/face
 取得已登入過伺服器的玩家面部圖片。  
 <https://catbud.net/api/player/xuancat/face>  
@@ -64,7 +70,7 @@
 | `discord` | 🟥 | 🟥 | 🟥 | ✅ |
 
 ```json
-{"uuid":"63c09d08-a16d-4923-88fc-91df490c9e3b","name":"xuancat","locale":"zh_TW","discord":455305052416901130,"register":1703914504234,"update":1710316192929,"verified":true}
+{"uuid":"f0c48aaf-8711-4229-bda7-0476df7741ee","name":"catbud_net","locale":"zh_TW","discord":455305052416901130,"register":1720863520152,"update":1721104429329,"verified":false,"pledges":["SUBSIDIARY_ACCOUNT"]}
 ```
 
 ## /land/roles?token=`令牌`&land=`領地`

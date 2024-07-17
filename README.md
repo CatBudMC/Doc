@@ -95,3 +95,4 @@
 ![雷射水晶](https://i.imgur.com/iVbnZfc.png)
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
 ![扳手](https://i.imgur.com/iQQULmY.png)
+![調色板](https://i.imgur.com/Q6KAoiy.png)

@@ -27,6 +27,8 @@
 [![星星](https://i.imgur.com/3HCqQEb.png)](物品/星星.md)
 [![終界星星](https://i.imgur.com/AbJNUKr.png)](物品/終界星星.md)
 [![重置星星](https://i.imgur.com/GKNvPBK.png)](物品/重置星星.md)
+[![扳手](https://i.imgur.com/iQQULmY.png)](物品/扳手.md)
+[![調色板](https://i.imgur.com/O2iYiB7.png)](物品/調色板.md)
 
 ## 選單
 | 1/2 | 2/2 |
@@ -94,5 +96,3 @@
 ![巧克力骨頭](https://i.imgur.com/XQrhCma.png)
 ![雷射水晶](https://i.imgur.com/iVbnZfc.png)
 ![雷射水晶](https://i.imgur.com/lDFpnwp.png)
-![扳手](https://i.imgur.com/iQQULmY.png)
-![調色板](https://i.imgur.com/O2iYiB7.png)

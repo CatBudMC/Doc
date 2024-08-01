@@ -27,6 +27,7 @@
 [![星星](https://i.imgur.com/3HCqQEb.png)](物品/星星.md)
 [![終界星星](https://i.imgur.com/AbJNUKr.png)](物品/終界星星.md)
 [![重置星星](https://i.imgur.com/GKNvPBK.png)](物品/重置星星.md)
+[![許願星星](https://i.imgur.com/zF1atcK.png)](物品/許願星星.md)
 [![扳手](https://i.imgur.com/iQQULmY.png)](物品/扳手.md)
 [![調色板](https://i.imgur.com/O2iYiB7.png)](物品/調色板.md)
 

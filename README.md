@@ -56,7 +56,6 @@
 | `C` | [/cause](指令/cause.md)、[/count](指令/count.md) |
 | `L` | [/land](指令/land.md)、[/log](指令/log.md) |
 | `M` | [/map](指令/map.md)、[/mode](指令/mode.md) |
-| `P` | [/pass](指令/pass.md) |
 | `R` | [/rtp](指令/rtp.md) |
 | `S` | [/seed](指令/seed.md)、[/special](指令/special.md) |
 | `T` | [/task](指令/task.md)、[/tester](指令/tester.md)、[/token](指令/token.md)、[/top](指令/top.md) |

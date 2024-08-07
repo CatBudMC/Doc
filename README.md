@@ -30,6 +30,7 @@
 [![許願星星](https://i.imgur.com/zF1atcK.png)](物品/許願星星.md)
 [![扳手](https://i.imgur.com/iQQULmY.png)](物品/扳手.md)
 [![調色板](https://i.imgur.com/O2iYiB7.png)](物品/調色板.md)
+[![盔甲座手臂](https://i.imgur.com/IQ1ACcv.png)](物品/盔甲座手臂.md)
 
 ## 選單
 | 1/2 | 2/2 |
